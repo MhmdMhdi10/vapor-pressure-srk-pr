@@ -11,19 +11,19 @@ This project calculates and plots the vapor pressure of C1, C3, C5, C7, and H₂
 The Antoine equation provides initial saturation pressures, while fugacity corrections and the Newton-Raphson method are used to refine results.
 📦 Project Structure
 
-├── main.py
+├── main.py/
 ├── Antoine_equation/
-│   └── antoine.py
+│   └── antoine.py/
 ├── srk_eos/
-│   └── srk_eos.py
+│   └── srk_eos.py/
 ├── peng_robinson/
-│   └── peng_robinson.py
+│   └── peng_robinson.py/
 ├── newthon_raphson/
-│   └── newton_raphson.py
+│   └── newton_raphson.py/
 ├── Utility/
-│   ├── fv_calculator.py
-│   └── fl_calculator.py
-└── README.md
+│   ├── fv_calculator.py/
+│   └── fl_calculator.py/
+└── README.md/
 
 ⚙️ Installation
 
